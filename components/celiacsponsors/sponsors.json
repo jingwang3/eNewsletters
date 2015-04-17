@@ -1,0 +1,52 @@
+{
+  "sponsor": [
+    {
+      "id": 0,
+      "imageAlt": "Glutino live fully",
+      "name": "Glutino",
+      "url": "http://www.glutino.com/",
+      "image": "https://giving.childrensnational.org/images/content/pagebuilder/Glutino-Live-Fully-New-Color.jpg",
+      "description": "Glutino is all about embracing: embracing your allergy, embracing your food, and embracing your life. They set out to make gluten-free food that is not only safe but also satisfyingly delicious, opening the doors for thousands of people with restricted diets. From baking mixes and snacks to frozen dinners, Glutino has tried to broaden diets with accessible options. All products are certified gluten-free, all breads and bagels are preservative-free, and many products also are dairy- and casein-free. "
+    },
+    {
+      "id": 1,
+      "imageAlt": "One Dish Cuisine",
+      "name": "One Dish Cuisine",
+      "url": "http://onedishcuisine.com/",
+      "image": "https://giving.childrensnational.org/images/content/pagebuilder/ODC_Cafe2012V.jpg",
+      "description": "One Dish Cuisine is driven by a personal commitment to safe, delicious meals for multiple allergen individuals and families. Their entire line of products, including things like salads, sandwiches, and fries, is gluten-free, and the majority are soy-and-casein-free as well. One Dish is recognized by the Celiac Sprue Association, and all of their products are cooked in a gluten- and peanut-free facility, with careful cross-contamination procedures for other major allergens. With the catch phrase “Welcome Back to the Table,” One Dish Cuisine pioneers the allergen living marketplace."
+    },
+    {
+      "id": 2,
+      "imageAlt": "Pamela’s Products",
+      "name": "Pamela’s Products",
+      "url": "http://www.pamelasproducts.com/",
+      "image": "https://giving.childrensnational.org/images/content/pagebuilder/PPIogo-big_1_.jpg",
+      "description": "Pamela’s Products has brought decadence to the gluten-free community since 1988. The company offers indulgent baking mixes and products that are all-natural and free from most common allergens. No products have any artificial additives, high fructose corn syrup, or genetically modified ingredients. Pamela’s offers an expansive line of baking mixes, cookies, and snack bars. The mixes range from breads to brownies, the cookies come in all kinds, and there are four varieties of snack bars. Pamela’s Products does its best to reach as many in the allergy community as possible with as many products as possible."
+    },
+    {
+      "id": 3,
+      "imageAlt": "Rudi's Gluten-free Bakery",
+      "name": "Rudi's Gluten-free Bakery",
+      "url": "http://www.glutino.com/",
+      "image": "http://giving.childrensnational.org/images/content/pagebuilder/Rudis_Gluten_Logo_4c.jpg",
+      "description": "When Rudi's bakery began to notice the increasing needs of the gluten-free community, they spent 15 months working with bakers and testers to achieve a gluten-free product that is as close to the 'real' thing as possible. Their state-of-the-art facilities propelled Rudi's as a leader in the gluten-free community. All incoming ingredients and products are tested and certified by the Gluten-Free Certification Organization to be less than five pars per million of gluten, as well as devoid of any artificial chemicals or preservatives. They don't just offer sandwich bread anymore--Rudi's has expanded to rolls, buns, tortillas, wraps, pizza crust, stuffing, and cherry almond bars.."
+    },
+    {
+      "id": 4,
+      "imageAlt": "San-J International",
+      "name": "San-J International",
+      "url": "http://www.san-j.com/",
+      "image": "http://giving.childrensnational.org/images/content/pagebuilder/San-J-logo-jpeg-small.jpg",
+      "description": "San-J International is a one-stop shop for gluten-free Asian sauces. They offer seven varieties of cooking sauces, three kinds of salad dressings, and their infamous gluten-free tamari soy sauces in six varieties, not to mention four different kinds of rice crackers. The tamari sauce has no msg or preservatives and is certified by the Non- GMO Project. San-J’s crackers are never fried, but baked to achieve their crispiness. San-J is a quality supplier for all Asian-inspired gluten-free cooking needs. All San-J products are certified by the Gluten-Free Certification Organization."
+    },
+    {
+      "id": 5,
+      "imageAlt": "Lisanatti Foods",
+      "name": "Lisanatti Foods",
+      "url": "http://www.lisanattifoods.com/",
+      "image": "http://giving.childrensnational.org/images/content/pagebuilder/Lisanatti-logo.jpg",
+      "description": "Lisanatti Foods produces the “good health cheese alternative.” It also happens to be gluten-free and made from only organic and non-GMO ingredients. This family business creates cheese alternatives from soy and nuts to offer animal- and allergy-friendly alternatives to cheese. Their products include snack sticks, slices, and shreds. They come in a variety of flavors like mozzarella and jalapeño jack."
+    }
+  ]
+}

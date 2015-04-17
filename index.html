@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>E-Newsletter Builder</title>
+
+<link type="text/css" rel="stylesheet" href="assets/demo.css">
+<link type="text/css" rel="stylesheet" href="assets/jquery-te-1.4.0.css">
+<!-- Facebook Conversion Code for test -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6019504380341', {'value':'0.00','currency':'USD'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6019504380341&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
+</head>
+
+<body>
+<div class="header fixed">
+	<p><span>Enter number of paragraphs: </span><input id="paraNum" type="number" value="1"><a href="#" id="addPara" class="link-button">+</a><a href="#" id="removePara" class="link-button">-</a>
+	<button id="updateBtn">Clear and Update</button></p>
+	<p><button id="importBtn">Import</button>
+	<input type="file" id="files" name="files[]" value="Choose File to Import">
+	<div id="import-content-box" style="display:none;"></div></p>
+	<p><button class="status">View HTML</button>
+	<button id="export">Generate HTML</button>
+	<select id="themeSelected"><option value="ap" style="color:#da291c">AP</option><option value="be" style="color:#da291c">BE</option><option value="celiac" style="color:#2082cb">celiac</option><option value="diabetes" style="color:#2082cb">diabetes</option><option value="sample" style="color:#2082cb">sample</option></select>
+	<input id="quickLinkCheckBox" type="checkbox" name="quick-link-ckbox" value="true" checked>Show Quick Links</p>
+</div>
+<div class="body-wrapper">
+	<p>Welcome to version 4.0. This version added a new dropdown selection list to allow populating sponsor content for Celiac. The dropdown box displays when celiac is selected</p>
+	<h2>E-Newsletter Builder V4.0</h2>
+
+	<!------------------------------------------------------------ Toggle jQTE Button ------------------------------------------------------------>
+	Enter the date for this publication: <input id="pubDate" type="text" value="January 2014"><br />
+
+
+	<!------------------------------------------------------------ jQUERY TEXT EDITOR ------------------------------------------------------------>
+	<div id="content-box"></div>
+
+	<!------------------------------------------------------------ jQUERY TEXT EDITOR ------------------------------------------------------------>
+
+	<hr>
+	<h2 class="preview">Preview</h2>
+	<form action="./" method="post">
+		<div class="output"><textarea id="final-output" class="jqte-test html-code"></textarea></div>
+		<div id="sponsorControl">
+			<strong>Choose Sponsor: </strong><select id="sponsorList"></select>
+			<button type="button" id="addSponsor">Add Sponsor</button>
+		</div>
+		<p><button type="button" id="download">Download HTML</button></p>
+	</form>
+</div>
+<script type="text/javascript" src="assets/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="assets/jquery-te-1.4.0.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="assets/jquery.generateFile.js" charset="utf-8"></script>
+<script type="text/javascript" src="assets/plug-in.js" charset="utf-8"></script>
+
+</body>
+</html>
